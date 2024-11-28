@@ -74,13 +74,3 @@ item_mais_vendido = min(vendas, key=lambda venda: venda["quantidade"])
 print(f"Esse é o item menos vendido: {item_mais_vendido['item']}")
 print(f"Quantidade vendida: {item_mais_vendido['quantidade']}")
 print(f"Preço unitário: R${item_mais_vendido['preco']}")
-
-
-
-
-
-
-
-
-
-
