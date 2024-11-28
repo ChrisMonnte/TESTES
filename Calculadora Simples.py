@@ -49,26 +49,3 @@ elif sinal == '/':
 else:
      print('Operação invalida')
      sys.exit()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
