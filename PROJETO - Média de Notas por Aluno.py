@@ -1,5 +1,5 @@
 #OBJETIVOS DO PROJETO:
-# 1- Média de Notas por Aluno OK
+# 1- Média de Notas por Aluno
 # 2- Melhor Aluno em Cada Matéria
 # 3- Média de Notas da Turma por Matéria
 
